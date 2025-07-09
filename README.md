@@ -78,3 +78,4 @@ Python-based NLP tool to extract name, email, phone, skills from resumes.
 - 📱 **Phone:** +91 6353478831
 
 > 🌟 *“Building meaningful software solutions through code and curiosity.”*
+> ⭐ _Always open to collaborations, freelance projects, and learning opportunities._
