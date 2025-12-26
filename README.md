@@ -23,7 +23,7 @@
 
 ## 🚀 Projects
 
-### 🔹 ATS Resume Scanner *(Skill-Match)* *(Ongoing)*
+### 🔹 ATS Resume Scanner *(Skill-Match)* *(2025)*
 AI-powered tool that parses resumes, scores skills, and stores structured data with NLP summarization.
 
 ### 🔹 Sentiment & Offensive Content Detection *(2024)*
@@ -57,7 +57,7 @@ Full-stack web application to manage event registration, venue booking, and noti
 ## 📌 Featured Repositories
 
 ### 🔗 [Resume Parser](https://github.com/VedantMehta-007/Resume_parser)
-Python-based NLP tool to extract name, email, phone, skills from resumes.
+Python-based NLP tool to extract name, email, phone, and skills from resumes.
 
 ---
 
