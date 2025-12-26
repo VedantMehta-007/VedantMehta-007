@@ -6,10 +6,10 @@
 
 ## 🔧 Technical Skills
 
-**Languages:** Python, Java, C, C++, C#, Kotlin, SQL  
+**Languages:** Python, Java, SQL  
 **Frameworks:** Django, React.js, Node.js  
 **Web:** HTML5, CSS, JavaScript, PHP, Bootstrap  
-**Tools:** Android Studio, Visual Studio, PyCharm, XAMPP, NetBeans, Jupyter Notebook  
+**Tools:** Visual Studio, PyCharm, XAMPP, NetBeans, Jupyter Notebook  
 **IoT & Embedded:** Arduino, Raspberry Pi, Keil µVision5, Proteus
 
 ---
